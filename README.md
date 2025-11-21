@@ -28,7 +28,6 @@ This project uses the Titanic dataset to create an end-to-end predictive model w
 ├── sample.ipynb
 ├── model.joblib
 ├── README.md
-├── .gitignore
 └── LICENSE
 
 
